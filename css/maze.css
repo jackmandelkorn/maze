@@ -1,0 +1,16 @@
+body {
+  padding: 30px;
+  margin: 0;
+  background-color: #0F0F0F;
+  line-height: 13px;
+  overflow: hidden;
+}
+span {
+  font-family: monospace;
+  font-size: 18px;
+}
+.norm {
+  color: #F0F0F0;
+  font-family: monospace;
+  font-size: 18px;
+}
